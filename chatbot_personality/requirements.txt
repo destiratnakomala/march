@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai==0.28
+chromadb
+tiktoken
+PyPDF2
+typing-extensions
